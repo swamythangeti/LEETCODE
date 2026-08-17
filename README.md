@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/swamythangeti/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/swamythangeti/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/swamythangeti/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/swamythangeti/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/swamythangeti/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/swamythangeti/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/swamythangeti/LEETCODE/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/swamythangeti/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

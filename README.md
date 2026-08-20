@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/swamythangeti/LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/swamythangeti/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/swamythangeti/LEETCODE/tree/master/0061-rotate-list) |
 ## Sorting
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/swamythangeti/LEETCODE/tree/master/0012-integer-to-roman) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/swamythangeti/LEETCODE/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

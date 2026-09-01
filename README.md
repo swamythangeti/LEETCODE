@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/swamythangeti/LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/swamythangeti/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/swamythangeti/LEETCODE/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/swamythangeti/LEETCODE/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/swamythangeti/LEETCODE/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/swamythangeti/LEETCODE/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/swamythangeti/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/swamythangeti/LEETCODE/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/swamythangeti/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/swamythangeti/LEETCODE/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/swamythangeti/LEETCODE/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/swamythangeti/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/swamythangeti/LEETCODE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

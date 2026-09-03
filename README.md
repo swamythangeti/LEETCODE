@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/swamythangeti/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3692-majority-frequency-characters](https://github.com/swamythangeti/LEETCODE/tree/master/3692-majority-frequency-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/swamythangeti/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/swamythangeti/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [3692-majority-frequency-characters](https://github.com/swamythangeti/LEETCODE/tree/master/3692-majority-frequency-characters) |
 ## Math
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/swamythangeti/LEETCODE/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [3692-majority-frequency-characters](https://github.com/swamythangeti/LEETCODE/tree/master/3692-majority-frequency-characters) |
 <!---LeetCode Topics End-->

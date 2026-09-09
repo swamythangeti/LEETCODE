@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/swamythangeti/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swamythangeti/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/swamythangeti/LEETCODE/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/swamythangeti/LEETCODE/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swamythangeti/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/swamythangeti/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/swamythangeti/LEETCODE/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

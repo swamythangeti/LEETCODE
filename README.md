@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/swamythangeti/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swamythangeti/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swamythangeti/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0835-image-overlap](https://github.com/swamythangeti/LEETCODE/tree/master/0835-image-overlap) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/swamythangeti/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/swamythangeti/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/swamythangeti/LEETCODE/tree/master/0835-image-overlap) |
 ## Algorithm X
 |  |
 | ------- |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/swamythangeti/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/swamythangeti/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swamythangeti/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0179-largest-number](https://github.com/swamythangeti/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swamythangeti/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0835-image-overlap](https://github.com/swamythangeti/LEETCODE/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/swamythangeti/LEETCODE/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/swamythangeti/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/swamythangeti/LEETCODE/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/swamythangeti/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swamythangeti/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/swamythangeti/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0179-largest-number](https://github.com/swamythangeti/LEETCODE/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3692-majority-frequency-characters](https://github.com/swamythangeti/LEETCODE/tree/master/3692-majority-frequency-characters) |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/swamythangeti/LEETCODE/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/swamythangeti/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swamythangeti/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3692-majority-frequency-characters](https://github.com/swamythangeti/LEETCODE/tree/master/3692-majority-frequency-characters) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swamythangeti/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/swamythangeti/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3692-majority-frequency-characters](https://github.com/swamythangeti/LEETCODE/tree/master/3692-majority-frequency-characters) |
 ## Math

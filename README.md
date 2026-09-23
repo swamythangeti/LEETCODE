@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/swamythangeti/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0835-image-overlap](https://github.com/swamythangeti/LEETCODE/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swamythangeti/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3524-find-x-value-of-array-i](https://github.com/swamythangeti/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swamythangeti/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swamythangeti/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3692-majority-frequency-characters](https://github.com/swamythangeti/LEETCODE/tree/master/3692-majority-frequency-characters) |
 ## Sliding Window
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swamythangeti/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/swamythangeti/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swamythangeti/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/swamythangeti/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swamythangeti/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
 |  |
 | ------- |

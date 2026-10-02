@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/swamythangeti/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/swamythangeti/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/swamythangeti/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/swamythangeti/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/swamythangeti/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/swamythangeti/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/swamythangeti/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/swamythangeti/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/swamythangeti/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/swamythangeti/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/swamythangeti/LEETCODE/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/swamythangeti/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

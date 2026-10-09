@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/swamythangeti/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swamythangeti/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0290-word-pattern](https://github.com/swamythangeti/LEETCODE/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swamythangeti/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/swamythangeti/LEETCODE/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/swamythangeti/LEETCODE/tree/master/0179-largest-number) |
+| [0290-word-pattern](https://github.com/swamythangeti/LEETCODE/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/swamythangeti/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/swamythangeti/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |

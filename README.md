@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/swamythangeti/LEETCODE/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swamythangeti/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/swamythangeti/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3524-find-x-value-of-array-i](https://github.com/swamythangeti/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/swamythangeti/LEETCODE/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/swamythangeti/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->

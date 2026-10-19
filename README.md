@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/swamythangeti/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3524-find-x-value-of-array-i](https://github.com/swamythangeti/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/swamythangeti/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/swamythangeti/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
 | ------- |

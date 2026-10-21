@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/swamythangeti/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/swamythangeti/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/swamythangeti/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/swamythangeti/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/swamythangeti/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swamythangeti/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0179-largest-number](https://github.com/swamythangeti/LEETCODE/tree/master/0179-largest-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/swamythangeti/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/swamythangeti/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/swamythangeti/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/swamythangeti/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/swamythangeti/LEETCODE/tree/master/0835-image-overlap) |
 ## Algorithm X
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/swamythangeti/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/swamythangeti/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy

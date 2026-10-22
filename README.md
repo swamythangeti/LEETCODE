@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/swamythangeti/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/swamythangeti/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2974-minimum-number-game](https://github.com/swamythangeti/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3524-find-x-value-of-array-i](https://github.com/swamythangeti/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/swamythangeti/LEETCODE/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/swamythangeti/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/swamythangeti/LEETCODE/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/swamythangeti/LEETCODE/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swamythangeti/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [2974-minimum-number-game](https://github.com/swamythangeti/LEETCODE/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/swamythangeti/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [2974-minimum-number-game](https://github.com/swamythangeti/LEETCODE/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/swamythangeti/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [2974-minimum-number-game](https://github.com/swamythangeti/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/swamythangeti/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy

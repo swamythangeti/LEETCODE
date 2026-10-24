@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swamythangeti/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0290-word-pattern](https://github.com/swamythangeti/LEETCODE/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/swamythangeti/LEETCODE/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swamythangeti/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/swamythangeti/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/swamythangeti/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/swamythangeti/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swamythangeti/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/swamythangeti/LEETCODE/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swamythangeti/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swamythangeti/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/swamythangeti/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/swamythangeti/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/swamythangeti/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/swamythangeti/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/swamythangeti/LEETCODE/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swamythangeti/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/swamythangeti/LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swamythangeti/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
